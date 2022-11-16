@@ -27,4 +27,35 @@
 }
 .classc{
     background-color: gray;
+    margin-left: 90px;
+}
+
+.classs{
+    background-color: gray;
+    margin-right: 90px;
+    text-align: center;
+}
+
+#footerimg{
+    align-items: center;
+    
+}
+
+
+.footer{
+    background-color:#C876C4;
+}
+
+body{ 
+    background-image: url("https://th.bing.com/th/id/OIP.xAImYPr4lsjgMcawy1iEJgHaHa?pid=ImgDet&w=193&h=193&c=7");
+}
+
+#footerlink{
+    color:white;
+    font-style:normal;
+}
+
+.classp{
+    background-color: gray;
+    margin-left: 90px;
 }
