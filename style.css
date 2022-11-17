@@ -44,6 +44,7 @@
 
 .footer{
     background-color:#C876C4;
+    color: #ffd1fd;
 }
 
 body{ 
@@ -58,4 +59,14 @@ body{
 .classp{
     background-color: gray;
     margin-left: 90px;
+}
+.classf{
+    color: lightpink;
+}
+.vertical {
+    border-left: 3px solid black;
+    height: 180px;
+    position:absolute;
+    left: 32%;
+    top: 119%;
 }
