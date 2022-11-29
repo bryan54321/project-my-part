@@ -107,18 +107,29 @@ h1{
     background-color:#f0f0f0
 }
 
-.vl {
-    border-left: 3px solid black;
-    height: 95px;
-    position: absolute;
-    left: 52%;
-    top: 2642px;
-  }
+.About{
+    height: 400px;
+    width: 400px;
+}
 
-  .line {
-    border-left: 3px solid black;
-    height: 95px;
-    position: absolute;
-    left: 30%;
-    top: 2642px;
-  }
+.TOC {
+    text-decoration:none;
+    color:#705454;
+    font-size:1.5vw;
+}
+
+.line{
+    border-left: 3px solid rgb(255, 130, 213);
+    height: 26vw;
+    position:absolute;
+    left: 17%;
+    top: 52.6vw;
+    z-index: 9;
+}
+.line2{
+    background-color: black;
+    width: 20vw;
+    height: .05vw;
+    line-height: 50%;
+    margin-left: 16vw;
+}
