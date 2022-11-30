@@ -122,14 +122,95 @@ h1{
     border-left: 3px solid rgb(255, 130, 213);
     height: 26vw;
     position:absolute;
-    left: 17%;
+    left: 16.5vw;
     top: 52.6vw;
     z-index: 9;
 }
 .line2{
-    background-color: black;
-    width: 20vw;
-    height: .05vw;
-    line-height: 50%;
-    margin-left: 16vw;
+    border-bottom: 3px solid rgb(255, 130, 213);
+    width: 20.2vw;
+    position: absolute;
+    margin-left: 15.9vw;
+    top: 53.5vw;
+    z-index: 9;
+}
+.line3{
+    border-left: 3px solid rgb(255, 130, 213);
+    height: 2vw;
+    position:absolute;
+    left: 35.8vw;
+    top: 58.2vw;
+    z-index: 9;
+}
+.line4{
+    border-left: 3px solid rgb(255, 130, 213);
+    height: 2vw;
+    position:absolute;
+    left: 35.8vw;
+    top: 63.02vw;
+    z-index: 9;
+}
+.line5{
+    border-bottom: 3px solid rgb(255, 130, 213);
+    width: 40.65vw;
+    position: absolute;
+    margin-left: 35.8vw;
+    top: 60.13vw;
+    z-index: 9;
+}
+.line6{
+    border-left: 3px solid rgb(255, 130, 213);
+    height: 2vw;
+    position:absolute;
+    left: 76.3vw;
+    top: 58.2vw;
+    z-index: 9;
+}
+.line7{
+    border-left: 3px solid rgb(255, 130, 213);
+    height: 2vw;
+    position:absolute;
+    left: 76.3vw;
+    top: 63.02vw;
+    z-index: 9;
+}
+.line8{
+    border-bottom: 3px solid rgb(255, 130, 213);
+    width: 40.65vw;
+    position: absolute;
+    margin-left: 35.8vw;
+    top: 63.02vw;
+    z-index: 9;
+}
+.line9{
+    border-left: 3px solid rgb(255, 130, 213);
+    height: 30.25vw;
+    position:absolute;
+    left: 76.7vw;
+    top: 51.4vw;
+    z-index: 9;
+}
+.line10{
+    border-bottom: 3px solid rgb(255, 130, 213);
+    width: 11.75vw;
+    position: absolute;
+    margin-left: 76.2vw;
+    top: 52.2vw;
+    z-index: 9;
+}
+.line11{
+    border-left: 3px solid rgb(255, 130, 213);
+    height: 20vw;
+    position:absolute;
+    left: 51.2vw;
+    top: 70.2vw;
+    z-index: 9;
+}
+.line12{
+    border-bottom: 3px solid rgb(255, 130, 213);
+    width: 21.45vw;
+    position: absolute;
+    margin-left: 50.55vw;
+    top: 71vw;
+    z-index: 9;
 }
