@@ -8,9 +8,9 @@
 
 .fard{
     font-family: 'K2D' , sans-serif;
-    font-size:300%;
+    font-size:280%;
     color:white;
-    word-spacing: 20px;
+    word-spacing: auto;
 }
 
 .caro{
@@ -104,7 +104,12 @@ h1{
 
 .card-body{
     border-radius:15px;
-    background-color:#f0f0f0
+    background-color:#ffffff85 ;
+    margin-left: 25%;
+}
+
+.card-img{
+    margin-left: 15%;
 }
 
 .About{
@@ -118,6 +123,46 @@ h1{
     font-size:1.5vw;
 }
 
+.menu{
+    font-size:40px;
+    color:rgb(70,54,54);
+    text-align:center;
+}
+
+.desc{
+    font-size:15px;
+    text-align:left;
+    border-top:solid 1px;
+    border-right:solid 1px;
+    margin-right:49.7%;
+    margin-left:5px;
+}
+
+.price{
+    font-size:15px;
+    text-align:center;
+    border-top:solid 1px;
+    border-left:solid 1px;
+    margin-left:50%;
+}
+
+.shelf{
+    height: 300px;
+    width: 300px;
+}
+
+.gal{
+    background-color:#f0f0f0;
+    margin-left:10vw;
+    margin-right:10vw;
+    height:500px;
+}
+
+.gal .card-body{
+    background-color:white;
+    border-color:#e29de0;
+    border-style: solid;
+}
 .line{
     border-left: 3px solid rgb(255, 130, 213);
     height: 26vw;
@@ -213,4 +258,23 @@ h1{
     margin-left: 50.55vw;
     top: 71vw;
     z-index: 9;
+}
+
+#dis{
+    background-color: #e29de0;
+}
+
+.back-to-top {
+    position: fixed;
+    right: 2rem;
+    bottom: 2rem;
+    z-index:20;
+    border-color:#9c3299;
+    color:#705454;
+    background-color:#f0f0f0;
+    border-radius:5px;
+  }
+
+.hidden{
+    display:none;
 }
